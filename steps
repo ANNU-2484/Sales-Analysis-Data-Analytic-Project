@@ -1,0 +1,6 @@
+Start step by step to create project
+1.  to upload database in Microsoft SQL server studio 
+( how to uplaod :- right click database go to restore database option choose to device click on three dot ... then add dataase click ok)
+clean data I have provided the code 
+open the Power Bi go to blank folder use toll get data choose options Sql server and also upload directly
+ load data and create your dashboard 
