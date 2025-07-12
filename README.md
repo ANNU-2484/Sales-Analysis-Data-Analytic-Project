@@ -4,3 +4,4 @@ The Sales Insights Data Analytics Project aims to leverage advanced data analyti
 
 ![Image Alt](https://raw.githubusercontent.com/ANNU-2484/Sales-Analysis-Data-Analytic-Project/9e46d2d9d50a622e1b02467a541af5a07b01b2c1/1.png)
 ![Image Alt](https://github.com/ANNU-2484/Sales-Analysis-Data-Analytic-Project/blob/main/2.png?raw=true)
+![Image Alt](https://github.com/ANNU-2484/Sales-Analysis-Data-Analytic-Project/blob/main/3.png?raw=true)
